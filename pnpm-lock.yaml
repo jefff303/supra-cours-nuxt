@@ -23,9 +23,6 @@ importers:
       '@nuxtjs/supabase':
         specifier: 2.0.1
         version: 2.0.1
-      '@supabase-js/source':
-        specifier: github:supabase/supabase-js
-        version: https://codeload.github.com/supabase/supabase-js/tar.gz/9e08cc3f061d335dd586f123dc60c7754e75b080
       '@supabase/supabase-js':
         specifier: ^2.80.0
         version: 2.80.0
@@ -1222,10 +1219,6 @@ packages:
 
   '@speed-highlight/core@1.2.12':
     resolution: {integrity: sha512-uilwrK0Ygyri5dToHYdZSjcvpS2ZwX0w5aSt3GCEN9hrjxWCoeV4Z2DTXuxjwbntaLQIEEAlCeNQss5SoHvAEA==}
-
-  '@supabase-js/source@https://codeload.github.com/supabase/supabase-js/tar.gz/9e08cc3f061d335dd586f123dc60c7754e75b080':
-    resolution: {tarball: https://codeload.github.com/supabase/supabase-js/tar.gz/9e08cc3f061d335dd586f123dc60c7754e75b080}
-    version: 0.0.0
 
   '@supabase/auth-js@2.80.0':
     resolution: {integrity: sha512-q2LyCVJGN4p7d92cOI7scWOoNwxJhZuFRwiimSUGJGI5zX7ubf1WUPznwOmYEn8WVo3Io+MyMinA7era6j5KPw==}
@@ -4958,8 +4951,6 @@ snapshots:
   '@sindresorhus/merge-streams@4.0.0': {}
 
   '@speed-highlight/core@1.2.12': {}
-
-  '@supabase-js/source@https://codeload.github.com/supabase/supabase-js/tar.gz/9e08cc3f061d335dd586f123dc60c7754e75b080': {}
 
   '@supabase/auth-js@2.80.0':
     dependencies:
