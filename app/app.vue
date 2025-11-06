@@ -1,6 +1,8 @@
 <template>
   <div>
     <!-- Page courante le rendu sera affiché ici -->
-    <NuxtPage />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
